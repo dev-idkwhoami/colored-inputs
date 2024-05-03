@@ -27,13 +27,13 @@ php artisan filament:assets
 The following styles are available:
 
 #### default
-![Default Style](.github\images\defaultStyle.png)
+![Default Style](https://github.com/dev-idkwhoami/colored-inputs/blob/master/.github/images/defaultStyle.png?raw=true)
 #### square
-![Default Style](.github\images\squareStyle.png)
+![Default Style](https://github.com/dev-idkwhoami/colored-inputs/blob/master/.github/images/squareStyle.png?raw=true)
 #### circle
-![Default Style](.github\images\circleStyle.png)
+![Default Style](https://github.com/dev-idkwhoami/colored-inputs/blob/master/.github/images/circleStyle.png?raw=true)
 #### full
-![Default Style](.github\images\fullStyle.png)
+![Default Style](https://github.com/dev-idkwhoami/colored-inputs/blob/master/.github/images/fullStyle.png?raw=true)
 
 To **choose one** of the styles simply chain onto the field the respective method like this:
 
